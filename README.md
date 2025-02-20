@@ -72,13 +72,13 @@ Pokedex > catch pikachu
 Pokedex > inspect pikachu
 ```
 
-pokedex (See all the pokemon you have caught)
+💻 pokedex (See all the pokemon you have caught)
 
 ```
 Pokedex > pokedex
 ```
 
-exit (Exit the Pokedex)
+🔚 exit (Exit the Pokedex)
 
 ```
 Pokedex > exit
